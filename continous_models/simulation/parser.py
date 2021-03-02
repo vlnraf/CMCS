@@ -12,7 +12,7 @@ def parse_cli():
 
         parser.add_argument(
                 "-g", "--graph",
-                help = "set to store the video of the graph",
+                help = "type this flag if you want to compute the graph",
                 default=False,
                 action="store_true"
         )
