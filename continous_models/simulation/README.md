@@ -25,20 +25,18 @@ python simulation.py -h
 ```
 to see all the parameters that can be passed. You should see something like that
 ```sh
-usage: prova.py [-h] [-r RESOLUTION] [-g] [--nameSim NAMESIM]
-                [--nameGraph NAMEGRAPH] [--npersons NPERSONS]
-                [--seconds SECONDS]
+usage: simulation.py [-h] [-r RESOLUTION] [-g] [--nameSim NAMESIM] [--nameGraph NAMEGRAPH]
+                     [--npersons NPERSONS] [--seconds SECONDS]
 
 optional arguments:
   -h, --help            show this help message and exit
   -r RESOLUTION, --resolution RESOLUTION
                         Render the movie at resolution WxH
-  -g, --graph           set to store the video of the graph
-  --nameSim NAMESIM     Name of the file where save the simulation video , use
-                        .mp4
+  -g, --graph           type this flag if you want to compute the graph
+  --nameSim NAMESIM     Name of the file where save the simulation video , use .mp4
   --nameGraph NAMEGRAPH
                         Name of the file where save the graph video , use .mp4
   --npersons NPERSONS   number of persons to initialize
-  --seconds SECONDS     time of the output video in seconds, take in
-                        consideration that every second correspond to 1 day
+  --seconds SECONDS     time of the output video in seconds, take in consideration that every second
+                        correspond to 1 day
 ```
