@@ -8,6 +8,7 @@ An example of what you can get:
 ![Graph](https://user-images.githubusercontent.com/43886147/109716758-866c5900-7ba5-11eb-9761-1ffaa96041cd.mp4)
 
 For the math behind the collision of the spheres, and the change of direction see the following link: (it's the math used on the script, but could be wrong 😅, there is no physic like the mass of the balls or other stuffs like that, cause not needed for the simulation)
+[Ball Collision](https://github.com/vlnraf/CMCS/blob/master/continous_models/simulation/Ball%20collision.pdf)
 
 ### Requirements
 
