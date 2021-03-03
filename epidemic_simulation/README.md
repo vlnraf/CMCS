@@ -6,7 +6,7 @@ An example of what you can get:
 - ![Simulation](https://user-images.githubusercontent.com/43886147/109726410-ffbe7880-7bb2-11eb-9f0f-05fb836a64e3.mp4)  
 - ![Graph](https://user-images.githubusercontent.com/43886147/109726435-0816b380-7bb3-11eb-9dde-6a5cf8c11c52.mp4)
 
-For the math behind the collision of the spheres, and the change of direction see the following link: (it's the math used on the script, but could be wrong 😅, there is no physic like the mass of the balls or other stuffs like that, cause not needed for the simulation)  
+For the math behind the collision of the spheres, and the change of direction see the following link (could be wrong 😅), there is no physic like the mass of the balls, air resistance or other stuffs like that, cause not needed for the simulation  
 
 [Ball Collision](https://github.com/vlnraf/CMCS/blob/master/epidemic_simulation/Ball%20collision.pdf)
 
