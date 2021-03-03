@@ -8,7 +8,7 @@ An example of what you can get:
 
 For the math behind the collision of the spheres, and the change of direction see the following link: (it's the math used on the script, but could be wrong 😅, there is no physic like the mass of the balls or other stuffs like that, cause not needed for the simulation)  
 
-[Ball Collision](https://github.com/vlnraf/CMCS/blob/master/continous_models/simulation/Ball%20collision.pdf)
+[Ball Collision](https://github.com/vlnraf/CMCS/blob/master/epidemic_simulation/Ball%20collision.pdf)
 
 ### Requirements
 
